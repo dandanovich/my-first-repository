@@ -11,3 +11,6 @@ doing amend
 4. stage changes for commit
 5. commit changes to version history
 6. view previous changes with git log
+
+#Table of Contents
+1.example_file.txt
